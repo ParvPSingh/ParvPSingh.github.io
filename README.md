@@ -55,25 +55,25 @@ _Apr 2021 – May 2021_
 
 ## Projects
 
-**AI-Driven Suggestions for Health & Well-being**  [Link](https://github.com/Suraj7280/IBD/blob/main/IBD_companion_report.pdf)
+**AI-Driven Suggestions for Health & Well-being [Link](https://github.com/Suraj7280/IBD/blob/main/IBD_companion_report.pdf)**  
 _Tech: LangChain, Pandas, React Native_  
 _Jun 2024_  
 - Mobile app for individuals with Inflammatory Bowel Disease to manage symptoms and dietary routine
 - Integrated LLM-powered chatbot (RAG) for personalized health insights and support
 - Provided interactive visualizations (line charts, scatter plots, correlation plots) for health tracking
 
-**Optimizing Operations Through Predictive Modeling in Manufacturing**  [Link](https://drive.google.com/drive/folders/17OO7S1NqewyZcGDuuaexbIZVqkRVpAZl?usp=sharing)
+**Optimizing Operations Through Predictive Modeling in Manufacturing [Link](https://drive.google.com/drive/folders/17OO7S1NqewyZcGDuuaexbIZVqkRVpAZl?usp=sharing)**  
 _Tech: Excel, Scikit-learn, Pandas_  
 _Mar 2023_  
 - Developed ARIMA-based predictive models for stock and workforce optimization
 
-**Sentiment Prediction ML Model**  [Link](https://github.com/ParvPSingh/Sentiment-Prediction-Kaggle-Competition/blob/main/21f1002039-notebook-t22023.ipynb)
+**Sentiment Prediction ML Model [Link](https://github.com/ParvPSingh/Sentiment-Prediction-Kaggle-Competition/blob/main/21f1002039-notebook-t22023.ipynb)**  
 _Tech: Scikit-learn, Pandas, Numpy, Matplotlib_  
 _Jul 2023_  
 - Achieved 5th rank out of 977 participants in a sentiment classification competition
 - Conducted EDA, preprocessing, feature engineering, hyperparameter tuning, and evaluation
 
-**Library Management System**  [Link](https://github.com/ParvPSingh/LMS-Application)
+**Library Management System [Link](https://github.com/ParvPSingh/LMS-Application)**  
 _Tech: Vue.js, Redis, Celery, Flask, Flask-RESTful, Flask-SQLAlchemy_  
 _Apr 2024_  
 - Developed a full-stack library management application
@@ -84,8 +84,8 @@ _Apr 2024_
 ## Accomplishments
 
 - **GATE Score:** 592
-- **Codechef IITM Python DSA:** Rank 10 [Link]()
-- **FOSSEE IITB Hackathon:** Top 25 [Link]()
+- **Codechef IITM Python DSA:** Rank 10 [Link](https://drive.google.com/file/d/1xZsBO9MVAg_LsX5v9MW2MjTFPcGMhPk4/view?usp=sharing)
+- **FOSSEE IITB Hackathon:** Top 25 [Link](https://drive.google.com/file/d/1_cvAEW_50jv5_JLeQXJKmY36mVYtx5ql/view?usp=sharing)
 
 ---
 
