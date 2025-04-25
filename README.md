@@ -1,6 +1,14 @@
-# Parv Pratap Singh
+# Data Scientist
 
-Welcome to my portfolio! I am a data scientist and developer passionate about AI, machine learning, and full-stack development.
+---
+
+## Technical Skills
+
+- **Languages:** Python, Java, BASH
+- **Databases:** SQLite
+- **Tools:** Git, Excel
+- **Platforms:** Windows, Ubuntu
+- **Libraries:** Scikit-learn, Pytorch, LangChain, Matplotlib, Pandas, Numpy, Flask, Pygame
 
 ---
 
@@ -19,16 +27,6 @@ CGPA: 8.15 (Dec 2020 – Jul 2024)
 **Amity International School (CBSE)**  
 - Senior Secondary aggregate: 84.8%  
 - Secondary aggregate: 95% (Jun 2020)
-
----
-
-## Technical Skills
-
-- **Languages:** Python, Java, BASH
-- **Databases:** SQLite
-- **Tools:** Git, Excel
-- **Platforms:** Windows, Ubuntu
-- **Libraries:** Scikit-learn, LangChain, Matplotlib, Pandas, Numpy, Flask, Pygame
 
 ---
 
@@ -115,5 +113,3 @@ _Apr 2024_
 - Looking after stray animals
 
 ---
-
-> _This portfolio is built with [jekyll-theme-minimal](https://github.com/pages-themes/minimal) for a clean, professional look._
