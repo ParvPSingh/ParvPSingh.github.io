@@ -15,7 +15,7 @@
 
 **IIT Madras**  
 _B.Sc in Programming & Data Science_  
-CGPA: 8.23  
+CGPA: 8.28  
 - Specialization: Artificial Intelligence, Machine Learning, Statistics, App Development
 
 **Dr. A.P.J. Abdul Kalam Technical University**  
@@ -40,7 +40,7 @@ _Jul 2024 – Present_
 _Jan 2024 – Present_  
 - Evaluated students' understanding of ML concepts and project work
 - Streamlined course content and assessment methods
-- Provided feedback to 148 students
+- Provided feedback to 177 students
 
 **Data Manager (Freelance) – Sunder Engineering Co.**  
 _Aug 2023 – Sept 2023_  
