@@ -83,7 +83,6 @@ _Apr 2024_
 
 ## Accomplishments
 
-- **GATE Score:** 592
 - **Codechef IITM Python DSA:** Rank 10 [Link](https://drive.google.com/file/d/1xZsBO9MVAg_LsX5v9MW2MjTFPcGMhPk4/view?usp=sharing)
 - **FOSSEE IITB Hackathon:** Top 25 [Link](https://drive.google.com/file/d/1_cvAEW_50jv5_JLeQXJKmY36mVYtx5ql/view?usp=sharing)
 
