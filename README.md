@@ -5,21 +5,6 @@ Yardi School of Artificial Intelligence, IIT Delhi
 Hauz Khas, New Delhi, Delhi
 aiz258461@scai.iitd.ac.in
 
----
-
-## Research Interests
-
-My broad area of research is **Graph Neural Networks** and their applications in **Materials Science**. My current work focuses on GNN Force Fields / Machine-Learned Interatomic Potential (MLIP) models and model merging.
-
----
-
-## Technical Skills
-
-- **Languages:** Python, Java, BASH
-- **Databases:** SQLite
-- **Tools:** Git, Excel
-- **Platforms:** Windows, Ubuntu
-- **Libraries:** PyTorch, Scikit-learn, LangChain, Matplotlib, Pandas, NumPy, Flask, Pygame
 
 ---
 
@@ -142,10 +127,21 @@ _Mar 2023_
 ## Awards & Fellowships
 
 - **IndiaAI Fellow** (MeitY, Govt. of India)
+- **Google Research Poster Competition 2026:** Winner
 - **IITM Sentiment Prediction Kaggle Competition:** Rank 5 (out of 977)
 - **Codechef IITM Python DSA:** Rank 10 [Link](https://drive.google.com/file/d/1xZsBO9MVAg_LsX5v9MW2MjTFPcGMhPk4/view?usp=sharing)
 - **FOSSEE IITB Hackathon:** Top 25 [Link](https://drive.google.com/file/d/1_cvAEW_50jv5_JLeQXJKmY36mVYtx5ql/view?usp=sharing)
+  
+---
 
+## Technical Skills
+
+- **Languages:** Python, Java, BASH
+- **Databases:** SQLite
+- **Tools:** Git, Excel
+- **Platforms:** Windows, Ubuntu
+- **Libraries:** PyTorch, Scikit-learn, LangChain, Matplotlib, Pandas, NumPy, Flask, Pygame
+  
 ---
 
 ## Links
